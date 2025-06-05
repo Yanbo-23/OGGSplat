@@ -1,0 +1,173 @@
+data_root: data/scannetpp/data
+
+weights_path_gs_init: /home/wyb/workspace/OGGSplat/checkpoints/Gaussian-Init/epoch=19-step=14260.ckpt
+vl_algin_weights: /home/wyb/workspace/OGGSplat/checkpoints/APE/vl_algin_weights.pth
+lang_weights: /home/wyb/workspace/OGGSplat/checkpoints/APE/lang_weights.pth
+
+pretrained_unet_name: /home/wyb/workspace/OGGSplat/checkpoints/RGB-inpainter/checkpoint-51000/unet
+autoencoder_path: /home/wyb/workspace/OGGSplat/checkpoints/autoencoder/best-checkpoint-epoch=04-train_loss=0.01.ckpt
+
+controlnet_model_feat_name_or_path: /home/wyb/workspace/OGGSplat/checkpoints/controlnet/controlnet_feat
+
+pretrained_feat_model_name_or_path: /home/wyb/workspace/OGGSplat/checkpoints/Sem-inpainter/unet_feat
+pretrained_vae_feat_path: /home/wyb/workspace/OGGSplat/checkpoints/Sem-inpainter/vae/checkpoint-42500/autoencoderkl
+
+semantic_label:  data/metadata/semantic_benchmark/top100.txt
+seed: 1
+select_frames:
+  7b6477cb95:
+  - DSC03468
+  - DSC03477
+  
+  a980334473:
+  - DSC03995
+  - DSC04004
+  38d58a7a31:
+  - DSC00956
+  - DSC00965
+  c50d2d1d42:
+  - DSC01465
+  - DSC01474
+
+  09c1414f1b:
+  - DSC04432
+  - DSC04441
+  0d2ee665be:
+  - DSC00001
+  - DSC00010
+  13c3e046d7:
+  - DSC01296
+  - DSC01305
+  1ada7a0617:
+  - DSC03462
+  - DSC03471
+  21d970d8de:
+  - DSC00001
+  - DSC00017
+  25f3b7a318:
+  - DSC06826
+  - DSC06836
+  27dd4da69e:
+  - DSC01149
+  - DSC01158
+  286b55a2bf:
+  - DSC02247
+  - DSC02256
+  31a2c91c43:
+  - DSC07476
+  - DSC07485
+  '3864514494':
+  - DSC06059
+  - DSC06068
+
+  3db0a1c8f3:
+  - DSC00001
+  - DSC00010
+  3e8bba0176:
+  - DSC02261
+  - DSC02270
+  3f15a9266d:
+  - DSC06589
+  - DSC06598
+  40aec5fffa:
+  - DSC09596
+  - DSC09605
+  45b0dac5e3:
+  - DSC05684
+  - DSC05693
+  5748ce6f01:
+  - DSC00007
+  - DSC00016
+  578511c8a9:
+  - DSC09358
+  - DSC09367
+  '5942004064':
+  - DSC00001
+  - DSC00010
+  5eb31827b7:
+  - DSC02798
+  - DSC02807
+  5ee7c22ba0:
+  - DSC08832
+  - DSC08841
+  5f99900f09:
+  - DSC05001
+  - DSC05010
+  6115eddb86:
+  - DSC09027
+  - DSC09036
+  7831862f02:
+  - DSC03868
+  - DSC03877
+
+  7bc286c1b6:
+  - DSC04995
+  - DSC05004
+  825d228aec:
+  - DSC02257
+  - DSC02266
+  9071e139d9:
+  - DSC07638
+  - DSC07647
+  99fa5c25e1:
+  - DSC06290
+  - DSC06299
+  a24f64f7fb:
+  - DSC05189
+  - DSC05198
+  a8bf42d646:
+  - DSC00549
+  - DSC00558
+
+  ac48a9b736:
+  - DSC00001
+  - DSC00010
+  acd95847c5:
+  - DSC00001
+  - DSC00010
+  b0a08200c9:
+  - DSC07194
+  - DSC07203
+  bcd2436daf:
+  - DSC05432
+  - DSC05441
+  bde1e479ad:
+  - DSC02072
+  - DSC02081
+  c49a8c6cff:
+  - DSC02782
+  - DSC02791
+  c4c04e6d6c:
+  - DSC03011
+  - DSC03020
+
+  c5439f4607:
+  - DSC05715
+  - DSC05726
+  cc5237fd77:
+  - DSC01301
+  - DSC01310
+  d755b3d9d8:
+  - DSC02046
+  - DSC02055
+  e398684d27:
+  - DSC00001
+  - DSC00010
+  e7af285f7d:
+  - DSC02658
+  - DSC02667
+  f2dc06b1d2:
+  - DSC07015
+  - DSC07024
+  f3685d06a9:
+  - DSC04403
+  - DSC04412
+  f3d64c30f8:
+  - DSC08603
+  - DSC08612
+  f9f95681fd:
+  - DSC08422
+  - DSC08431
+  fb5a96b1a2:
+  - DSC02785
+  - DSC02794
