@@ -22,7 +22,7 @@ Created by [Yanbo Wang*](https://Yanbo-23.github.io/), [Ziyi Wang*](https://wang
 
 ## ✅ TO DO List
 
-* [✅] **Inference Code**
+* [x] **Inference Code**
   Load pretrained models and run scene extrapolation from sparse input views.
 
 * [ ] **Evaluation Benchmark**
