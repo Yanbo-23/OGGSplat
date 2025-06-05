@@ -1,11 +1,11 @@
 
 # OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View
 
-### [Paper]()  | [Project Page]()  | [Code](https://github.com/Yanbo-23/OGGSplat) 
+### [Paper]()  | [Project Page](https://yanbo-23.github.io/OGGSplat/)  | [Code](https://github.com/Yanbo-23/OGGSplat) 
 > Official codebase for **OGGSplat**, presented in the paper:
 > **OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**
 
-Created by [Yanbo Wang*](https://Yanbo-23.github.io/), [Ziyi Wang*](https://wangzy22.github.io/), [Wenzhao Zheng]("https://wzzheng.net/"), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu†](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=zh-CN).
+Created by [Yanbo Wang*](https://Yanbo-23.github.io/), [Ziyi Wang*](https://wangzy22.github.io/), [Wenzhao Zheng](https://wzzheng.net/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu†](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=zh-CN).
 
 
 ## 🧠 Overview
@@ -22,7 +22,7 @@ Created by [Yanbo Wang*](https://Yanbo-23.github.io/), [Ziyi Wang*](https://wang
 
 ## ✅ TO DO List
 
-* [ ] **Inference Code**
+* [✅] **Inference Code**
   Load pretrained models and run scene extrapolation from sparse input views.
 
 * [ ] **Evaluation Benchmark**
