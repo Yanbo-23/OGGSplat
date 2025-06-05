@@ -137,5 +137,5 @@ ProjectPage/
 out/
 outputs/
 checkpoints/
-rasterization_modified/
+# rasterization_modified/
 .DS_Store
