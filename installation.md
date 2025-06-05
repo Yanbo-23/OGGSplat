@@ -10,11 +10,11 @@ git clone https://github.com/Yanbo-23/OGGSplat.git
 cd OGGSplat
 ```
 
-## Step 2: Install the Environment from [Splatt3R](https://github.com/btsmart/splatt3r)
+## Step 2: Install the Environment from Splatt3R
 
 Please follow the instructions in the [Splatt3R repository](https://github.com/btsmart/splatt3r) to set up the required environment. This typically involves creating a conda environment and installing PyTorch and other base dependencies.
 
-## Step 3: Install the Dependencies of Modeified [APE](https://github.com/Atrovast/APE)
+## Step 3: Install the Dependencies of Modeified APE
 Please follow the instructions in the [APE](https://github.com/Atrovast/APE) to set up the required environment.
 
 
