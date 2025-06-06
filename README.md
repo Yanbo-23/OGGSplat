@@ -72,8 +72,8 @@ If you find our work helpful, please consider citing:
 ```bibtex
 @article{your2025oggsplat,
   title={OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View},
-  author={Your Name and Co-authors},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  author={Wang, Yanbo and Wang, Ziyi and Zheng, Wenzhao and Zhou, Jie and Lu, Jiwen},
+  journal={arXiv preprint arXiv:2506.05204},
   year={2025}
 }
 ```
