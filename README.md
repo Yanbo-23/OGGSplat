@@ -1,7 +1,7 @@
 
 # OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View
 
-### [Paper]()  | [Project Page](https://yanbo-23.github.io/OGGSplat/)  | [Code](https://github.com/Yanbo-23/OGGSplat) 
+### [Paper](https://arxiv.org/pdf/2506.05204)  | [Project Page](https://yanbo-23.github.io/OGGSplat/)  | [Code](https://github.com/Yanbo-23/OGGSplat) 
 > Official codebase for **OGGSplat**, presented in the paper:
 > **OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**
 
