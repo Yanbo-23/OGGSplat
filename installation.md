@@ -24,7 +24,7 @@ Please follow the instructions in the [UniDepthV2](https://github.com/lpiccinell
 ## Step 5: Install the Rasterization Module
 
 ```bash
-cd oggsplat_rasterization
+cd rasterization_modified
 pip install -e .
 cd ..
 ```
