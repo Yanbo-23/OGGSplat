@@ -70,7 +70,7 @@ python gaussian_growing.py --seed <seed_value> --config <path_to_config_file>
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@article{your2025oggsplat,
+@article{wang2025oggsplat,
   title={OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View},
   author={Wang, Yanbo and Wang, Ziyi and Zheng, Wenzhao and Zhou, Jie and Lu, Jiwen},
   journal={arXiv preprint arXiv:2506.05204},
